@@ -1,0 +1,80 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+#top-header {
+	height: 675px;
+	color: #fff;
+	background: #27ae60;
+}
+
+#top-header h1 {
+  line-height: 52px;
+}
+
+.navbar a {
+	color: #fff;
+}
+
+
+.navbar-brand {
+	letter-spacing: -0.5px;
+}
+
+.bt-logo-box {
+  margin-top: -5px;
+  margin-left: 3px;
+  display: inline-block;
+	height: 33px;
+	width: 40px;
+  text-align: center;
+  color: #2ecc71;
+	background: #FFF;
+	border-radius: 10px 10px 0 10px;
+}
+
+.bt-logo-box:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -0.15em;
+}
+
+.bt-logo-inline {
+  margin-left: 3px;
+  display: inline-block;
+  height: auto;
+  width: 70px;
+  text-align: center;
+  color: #2ecc71;
+  background: #FFF;
+  border-radius: 10px 10px 0 10px;
+}
+
+.btn-primary, .btn-info {
+  padding: 10px;
+  margin-top: 40px;
+  display: block;
+  width: 100%;
+}
+
+.btn-sign {
+  background: orange;
+  border: none;
+}
+
+#features {
+  padding-top: 50px;
+  height: 550px;
+  text-align: center;
+  border-top: 10px solid #2ecc71;
+}
+
+#contact {
+  padding-top: 50px;
+  height: 300px;
+  text-align: center;
+  background: #ecf0f1;
+}
+

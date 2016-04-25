@@ -1,0 +1,153 @@
+div[id*="iphone"] {
+  margin: 0 auto;
+  color: #000;
+}
+
+#iphone {
+  height: 100%;
+  width: 300px;
+  position: relative;
+  top: -50px;
+}
+
+#iphone-top-power {
+  position: relative;
+  top: 55px;
+  left: 75px;
+  width: 40px;
+  height: 2px;
+  background: #fff;
+  border: 1px solid black;
+  border-radius: 2px 2px 0px 0px;
+}
+
+#iphone-lock {
+  position: relative;
+  left: -134px;
+  top: 120px;
+  width: 2px;
+  height: 25px;
+  background: #fff;
+  border: 1px solid black;
+  border-radius: 3px 0px 0px 3px;
+}
+
+#iphone-volume-top {
+  position: relative;
+  left: -134px;
+  top: 155px;
+  width: 2px;
+  height: 15px;
+  background: #fff;
+  border: 1px solid black;
+  border-radius: 3px 0px 0px 3px;
+}
+
+#iphone-volume-bottom {
+  position: relative;
+  left: -134px;
+  top: 170px;
+  width: 2px;
+  height: 15px;
+  background: #fff;
+  border: 1px solid black;
+  border-radius: 3px 0px 0px 3px;
+}
+
+#iphone-body {
+  height: 550px;
+  width: 266.91px;
+  background: #fff;
+  border-radius: 30px;
+  border: 1px solid black;
+}
+
+#iphone-innards {
+  position: relative;
+  top: -10px;
+}
+
+#iphone-camera {
+  position: relative;
+  top: 30px;
+  height: 8px;
+  width: 8px;
+  border: 1px solid black;
+  border-radius: 100%;
+}
+
+#iphone-flash {
+  position: relative;
+  top: 40px;
+  left: -33px;
+  width: 4px;
+  height: 4px;
+  border: 1px solid black;
+  border-radius: 100%;
+}
+
+#iphone-top-speaker {
+  position: relative;
+  bottom: -35px;
+  width: 40px;
+  height: 3px;
+  border-radius: 2px;
+  border: 1px solid black;
+}
+
+#iphone-screen {
+  padding-top: 50px;
+  position: relative;
+  top: 55px;
+  width: 240px;
+  height: 420px;
+  text-align: center;
+  background: url('http://www.ilikewallpaper.net/iphone-5s-wallpapers/download/21234/City-Blurry-Neon--iphone-5s-parallax-wallpaper-ilikewallpaper_com.jpg');
+  background-size: 100%;
+  border-radius: 2px;
+  border: 1px solid black;
+}
+
+#iphone-screen p {
+  color: #fff;
+  font-size: 1.4em;
+  letter-spacing: .5px;
+}
+
+#iphone-home-button {
+  position: relative;
+  top: 65px;
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+  border: 1px solid black;
+}
+
+/* -- Incoming Call -- */
+.fa-phone {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #fff;
+}
+
+.incoming-call {
+  display: inline-block;
+  width: 55px;
+  height: 55px;
+  border-radius: 100%;
+  text-align: center;
+  position: relative;
+  top: 200px;
+}
+
+#call-accept {
+  background: #52D769;
+  margin-left: 80px;
+}
+
+#call-decline {
+  background: #FC3D38;
+  transform: rotate(135deg);
+}
+
