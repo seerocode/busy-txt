@@ -6,4 +6,4 @@ Alas, Dream Weaver is dead and gone, and rightfully so. It is impossible to lear
 
 Before: http://webpage.pace.edu/rl37255p/IT150/FinalProject/BusyTXT/
 
-After: seerocode.github.io/busy-text/index.html
+After: http://seerocode.github.io/busy-txt/index.html
