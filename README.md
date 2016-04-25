@@ -5,4 +5,5 @@ BusyTXT is a concept service and website created as a final project for an Intro
 Alas, Dream Weaver is dead and gone, and rightfully so. It is impossible to learn anything useful for the web today if you are using a crutch like Dream Weaver. 
 
 Before: http://webpage.pace.edu/rl37255p/IT150/FinalProject/BusyTXT/
+
 After: seerocode.github.io/busy-text/index.html
